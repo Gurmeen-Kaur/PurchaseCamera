@@ -25,7 +25,7 @@ public class NaveenAutomobileShop {
 		driver.get("https://naveenautomationlabs.com/opencart/index.php?route=common/home");
 		driver.manage().window().maximize();
 	}
-
+//this is new test
 	@Test
 	public void purchaseItem() {
 
